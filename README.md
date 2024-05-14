@@ -1,4 +1,4 @@
-# Predictions of turbulent shear flows using deep neural networks
+# Predictions of turbulent shear flows using deep neural networks in TensorFlow
 
 [![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)](
 https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
@@ -18,7 +18,7 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 
 Created as part of my internship at Institute for Plasma Research, Gandhinagar, Ahmedabad.
 
-We have implemented Deep Neural Network architectures as proposed by [Srinivasan et al.](https://arxiv.org/abs/1905.03634) and made an attempt to reproduce the results as described in the study.
+We have implemented Deep Neural Network architectures as proposed by [Srinivasan et al.](https://arxiv.org/abs/1905.03634) using `TensorFlow` and made an attempt to reproduce the results as described in the study.
 
 `Detailed Explanation`
 
